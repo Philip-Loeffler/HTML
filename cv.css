@@ -1,0 +1,34 @@
+.vertalign, .rightjust {
+    /* border: 1px solid red; */
+    width: 49%;
+    display: inline-block;
+}
+.rightjust {
+    text-align: right;
+}
+.vertalign {
+    vertical-align: top;
+}
+#name {
+    font-size: 3em;
+    font-weight: bold;
+}
+table {
+    width: 100;
+  
+}
+table, tr, th, td {
+    border: 1px solid silver;
+    border-collapse: collapse;
+
+}
+td {
+    width: 20%;
+    text-align: center;
+}
+.role {
+    font-weight: bold;
+}
+.company {
+    font-style: italic;
+}
